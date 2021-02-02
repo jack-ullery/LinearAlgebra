@@ -1,8 +1,8 @@
 # LinearAlgebra
 A set of programs to I created to automate my Linear Algebra homework.
 
-Basic operations matrix manipulations are modeled.
-This allows me to automate and solve common Linear Algebra problems like Gauss-Jordan Elimination or finding the NullSpace.
+Basic operations and matrix manipulations are modeled.
+This allowed me to automate and automatically solve common Linear Algebra problems like Gauss-Jordan Elimination or finding the NullSpace.
 
 Each function outputs logs into either LaTeX or normal text. This helped me copy-paste solutions into my homework.
 
